@@ -1,0 +1,19 @@
+{
+    "name": "manojmbharadwaj/laghu",
+    "type": "library",
+    "description": "PHP DB Migration Tool",
+    "keywords": ["migration","php-migration","small-migration"],
+    "homepage": "https://github.com/manojmbharadwaj/laghu",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manoj M Bharadwaj",
+            "email": "ibeingmj@gmail.com",
+            "homepage": "ibeingmj.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
