@@ -1,0 +1,1 @@
+Migrated SQL files are saved in the current directory.
